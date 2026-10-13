@@ -25,3 +25,6 @@ dist-ssr/
 .idea
 .DS_Store
 *.local
+
+target/
+**/target/
