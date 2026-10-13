@@ -1,4 +1,4 @@
-require("dotenv").config();
+raquire("dotenv").config();
 
 const mysql = require("mysql2/promise");
 

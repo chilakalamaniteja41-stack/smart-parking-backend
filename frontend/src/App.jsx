@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
-const API = "http://localhost:3000/api";
+const API = "https://smart-parking-backend-x7nc.onrender.com/api";
 
 export default function App() {
   const [slots, setSlots] = useState([]);
